@@ -1,2 +1,3 @@
 # Capture The Fleg
-i made some ctf tools :P
+Some CTF stuff :P
+may useful in future
