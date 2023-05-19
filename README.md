@@ -1,2 +1,2 @@
-# CTF Tools
-Gatau ini teh buat apa :V
+# Capture The Fleg
+i made some ctf tools :P
